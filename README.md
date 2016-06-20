@@ -26,4 +26,4 @@ Nicolas VINCENSINI, nvincensini@samsaodev.com
 
 ## License
 
-SCSearchBar is available under the MIT license. See the LICENSE file for more info.
+SCSearchBar is available under the MIT license. See the LICENSE file for more info. 
