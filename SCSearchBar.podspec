@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'SCSearchBar'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of SCSearchBar.'
+  s.summary          = 'Simple and Customizable SearchBar'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/SCSearchBar'
+  s.homepage         = 'https://github.com/N1c0L4z3R/SCSearchBar'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Nicolas VINCENSINI' => 'nvincensini@samsaodev.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/SCSearchBar.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/N1c0L4z3R/SCSearchBar.git', :tag => 0.1.0 }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

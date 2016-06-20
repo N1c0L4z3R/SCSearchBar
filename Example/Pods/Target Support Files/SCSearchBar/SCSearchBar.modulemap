@@ -1,0 +1,6 @@
+framework module SCSearchBar {
+  umbrella header "SCSearchBar-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_SCSearchBar_Example {
+  umbrella header "Pods-SCSearchBar_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
